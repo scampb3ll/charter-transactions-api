@@ -1,0 +1,1 @@
+This project represents a microservice whose domain is account transactions.
